@@ -1,0 +1,43 @@
+ body{
+        background-color: white;
+    }
+    h3{
+        color: aqua;
+    }
+    .z1{
+            height: 200px;
+       }
+    .b1
+    {
+            border-style: dotted;
+            color: grey;
+           border-width: 5px;
+           width: 50px;
+            border-top-style: none;
+        }
+.b2{
+    text-align: center;
+    background-color: bisque;
+    padding: 0.1px;
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid black;
+    
+}
+#s1{
+    height: 35px;
+}
+.f1{
+    background-color: bisque;
+    border-radius: 0px 0px 5px 5px;
+    border: 1px solid black;
+    height: 100px;
+
+}
+.w3{
+    background-color: powderblue;
+    border-radius: 5px 5px 5px 5px;
+}
+.j1{
+    height: 25px;
+}
+
